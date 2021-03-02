@@ -8,6 +8,7 @@
     <artifactId>java-code-lab</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
+        
         <module>concurrent-demo</module>
         <module>func-interface-demo</module>
         <module>reactor-demo</module>
